@@ -1,7 +1,4 @@
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2dhZjcycW9iaGV4dWg1ZDFyZGZ3b2MyaTdqM3hmdTFjZ3RzcGtzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif" width="100%" alt="banner" />
-</p>
+
 
 <!-- Typing effect -->
 <p align="center">
