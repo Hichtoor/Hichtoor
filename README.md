@@ -4,6 +4,9 @@
 </p>
 
 
+<h1 align="center">👋 Hi, I'm Hichtoor</h1>
+
+
 ---
 
 ### 🧑‍💻 About Me
