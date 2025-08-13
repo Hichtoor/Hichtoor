@@ -1,5 +1,4 @@
 
-
 <!-- Typing effect -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=650&lines=Hi+there+%F0%9F%91%8B;I'm+Hichtoor;A+Passionate+and+Constant+Learner+from+Iran" alt="Typing SVG" />
@@ -22,10 +21,10 @@
 
 ### 🛠 Skills & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" width="80" height="80" alt="Python Logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png" width="80" height="80" alt="C++ Logo" />
+  <img src="https://thumbnail.imgbin.com/2/16/25/imgbin-responsive-web-design-html5-cascading-style-sheets-html-5-css-astrophytum-D6um1jcvKbgDtXyGuMSDU1AFj_t.jpg" width="80" height="80" alt="HTML5 Logo" />
+  <img src="https://logospng.org/wp-content/uploads/css-3.png" width="80" height="80" alt="CSS3 Logo" />
 </p>
 
 ---
