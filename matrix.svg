@@ -1,6 +1,5 @@
 <!-- matrix.svg -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 160" width="800" height="160" role="img" aria-label="Binary rain">
-  <rect width="100%" height="100%" fill="#000"/>
   <defs>
     <!-- یک ستون از 0 و 1 به‌صورت عمودی -->
     <symbol id="col">
@@ -108,4 +107,5 @@
       <animate attributeName="opacity" values="0.25;0.9;0.25" dur="3.8s" repeatCount="indefinite"/>
     </g>
   </g>
+
 </svg>
