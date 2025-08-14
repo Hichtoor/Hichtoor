@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://i.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="matrix binary rain banner" />
+</p>
+
+
 <!-- Typing effect with pixel font -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B;I'm+Hichtoor;A+Passionate+and+Constant+Learner+from+Iran;Welcome+to+my+Retro+Profile!" alt="Typing SVG" />
