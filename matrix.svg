@@ -1,0 +1,111 @@
+<!-- matrix.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 160" width="800" height="160" role="img" aria-label="Binary rain">
+  <rect width="100%" height="100%" fill="#000"/>
+  <defs>
+    <!-- یک ستون از 0 و 1 به‌صورت عمودی -->
+    <symbol id="col">
+      <text font-family="monospace" font-size="16" fill="#00ff7f">
+        <tspan x="0" y="-160">1</tspan>
+        <tspan x="0" dy="16">0</tspan>
+        <tspan x="0" dy="16">1</tspan>
+        <tspan x="0" dy="16">0</tspan>
+        <tspan x="0" dy="16">1</tspan>
+        <tspan x="0" dy="16">1</tspan>
+        <tspan x="0" dy="16">0</tspan>
+        <tspan x="0" dy="16">1</tspan>
+        <tspan x="0" dy="16">0</tspan>
+        <tspan x="0" dy="16">0</tspan>
+        <tspan x="0" dy="16">1</tspan>
+        <tspan x="0" dy="16">1</tspan>
+        <tspan x="0" dy="16">0</tspan>
+        <tspan x="0" dy="16">1</tspan>
+        <tspan x="0" dy="16">0</tspan>
+        <tspan x="0" dy="16">1</tspan>
+        <tspan x="0" dy="16">0</tspan>
+        <tspan x="0" dy="16">1</tspan>
+        <tspan x="0" dy="16">0</tspan>
+      </text>
+    </symbol>
+  </defs>
+
+  <!-- چند ستون با شروع زمانی متفاوت تا افکت باران ایجاد شود -->
+  <!-- هر ستون: گروه بیرونی برای X ثابت، گروه داخلی برای انیمیشن Y -->
+  <g transform="translate(40,0)">
+    <g opacity="0.9">
+      <use href="#col"/>
+      <animateTransform attributeName="transform" type="translate" values="0,-180;0,170" dur="3.6s" repeatCount="indefinite" begin="0s"/>
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="3.6s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <g transform="translate(120,0)">
+    <g opacity="0.85">
+      <use href="#col"/>
+      <animateTransform attributeName="transform" type="translate" values="0,-180;0,170" dur="3.9s" repeatCount="indefinite" begin="0.4s"/>
+      <animate attributeName="opacity" values="0.3;0.9;0.3" dur="3.9s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <g transform="translate(200,0)">
+    <g opacity="0.8">
+      <use href="#col"/>
+      <animateTransform attributeName="transform" type="translate" values="0,-180;0,170" dur="3.3s" repeatCount="indefinite" begin="0.8s"/>
+      <animate attributeName="opacity" values="0.25;0.85;0.25" dur="3.3s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <g transform="translate(280,0)">
+    <g opacity="0.9">
+      <use href="#col"/>
+      <animateTransform attributeName="transform" type="translate" values="0,-180;0,170" dur="4.1s" repeatCount="indefinite" begin="0.2s"/>
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="4.1s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <g transform="translate(360,0)">
+    <g opacity="0.85">
+      <use href="#col"/>
+      <animateTransform attributeName="transform" type="translate" values="0,-180;0,170" dur="3.5s" repeatCount="indefinite" begin="0.6s"/>
+      <animate attributeName="opacity" values="0.25;0.9;0.25" dur="3.5s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <g transform="translate(440,0)">
+    <g opacity="0.8">
+      <use href="#col"/>
+      <animateTransform attributeName="transform" type="translate" values="0,-180;0,170" dur="3.7s" repeatCount="indefinite" begin="1s"/>
+      <animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.7s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <g transform="translate(520,0)">
+    <g opacity="0.9">
+      <use href="#col"/>
+      <animateTransform attributeName="transform" type="translate" values="0,-180;0,170" dur="3.2s" repeatCount="indefinite" begin="0.3s"/>
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="3.2s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <g transform="translate(600,0)">
+    <g opacity="0.85">
+      <use href="#col"/>
+      <animateTransform attributeName="transform" type="translate" values="0,-180;0,170" dur="4.0s" repeatCount="indefinite" begin="0.7s"/>
+      <animate attributeName="opacity" values="0.25;0.9;0.25" dur="4.0s" repeatCount="indefinite"/>
+    </g>
+  </g>
+  <g transform="translate(680,0)">
+    <g opacity="0.8">
+      <use href="#col"/>
+      <animateTransform attributeName="transform" type="translate" values="0,-180;0,170" dur="3.4s" repeatCount="indefinite" begin="0.1s"/>
+      <animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.4s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <g transform="translate(760,0)">
+    <g opacity="0.85">
+      <use href="#col"/>
+      <animateTransform attributeName="transform" type="translate" values="0,-180;0,170" dur="3.8s" repeatCount="indefinite" begin="0.9s"/>
+      <animate attributeName="opacity" values="0.25;0.9;0.25" dur="3.8s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
