@@ -1,5 +1,6 @@
-<p align="center">
- 
+
+ <p align="center">
+  <img src="./matrix.svg" width="100%" alt="binary rain" />
 </p>
 
 <!-- Typing effect with pixel font -->
