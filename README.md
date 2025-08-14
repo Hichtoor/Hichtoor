@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=850&lines=HI+THERE+%F0%9F%91%8B;I'M+HICHTOOR;PASSIONATE+%26+CONSTANT+LEARNER+FROM+IRAN;WELCOME+TO+MY+RETRO+PROFILE" alt="Typing SVG" />
+  <img src="./matrix.svg" width="100%" alt="binary rain" />
 </p>
 
 <!-- Typing effect with pixel font -->
